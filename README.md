@@ -77,9 +77,9 @@ To tear down the infrastructure and avoid unnecessary charges, run:
 terraform destroy
 ```
 
-## Contributions
+## AWS Infrastructure Diagram
+![AWS Infrastructure](https://github.com/zipponnova/n26-cloud-aws-security/blob/main/n26_cloud_security_assignment_architecture.png)
 
-Contributions are welcome. Please adhere to the project's code of conduct and follow the pull request process.
 
 ## License
 
